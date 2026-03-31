@@ -29,3 +29,15 @@ This project demonstrates basic ServiceNow administration tasks, including **cre
 
 ## ✅ Outcome
 Successfully implemented secure and scalable access control by assigning roles through groups instead of individual users.
+
+## 📸 Screenshots
+
+### Users Created
+![image alt](https://github.com/SKK-sudo201/servicenow-user-group-role-management/blob/892599c3809e6df1f2cbc0d703c4d0eec71c1bea/Users%20created.png
+)
+### Groups Created
+![image alt](https://github.com/SKK-sudo201/servicenow-user-group-role-management/blob/892599c3809e6df1f2cbc0d703c4d0eec71c1bea/Groups%20created.png)
+### Roles Assigned
+![image alt](https://github.com/SKK-sudo201/servicenow-user-group-role-management/blob/892599c3809e6df1f2cbc0d703c4d0eec71c1bea/Jennifer-itil.png)
+![image alt](https://github.com/SKK-sudo201/servicenow-user-group-role-management/blob/892599c3809e6df1f2cbc0d703c4d0eec71c1bea/Thorn-approver-admin-catalog-project-manager.png)
+![image alt](https://github.com/SKK-sudo201/servicenow-user-group-role-management/blob/892599c3809e6df1f2cbc0d703c4d0eec71c1bea/Tim-role-admin.png)
